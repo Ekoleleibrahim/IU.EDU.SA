@@ -36,4 +36,4 @@ form{text-align:center}
 
 .oublie{margin-left:10px;}
 
-#block-button{display :flex;justify-content:space-between;}
+#block-button{display :flex;justify-content:center;align-items: center;gap: 23px;}

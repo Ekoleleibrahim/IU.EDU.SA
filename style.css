@@ -217,19 +217,19 @@ div.inscri
 
 footer
 {
-    text-align:center;
+    text-align: center;
     margin:20px 3px 25px 3px;
 }
 
 .twitter
 {
-    height:16px;
+    height:2em;
     border-radius:30px;
 }
 
 .sky,#para4
 {
-    color:skyblue;
+    color:#2e92a9;
 }
 
 .edu,.sky
@@ -252,4 +252,11 @@ footer
     border-radius:2px;
     transform: rotate(90deg);
     color:#fff;
+}
+
+address
+{
+    display: flex;
+    justify-content: center;
+
 }

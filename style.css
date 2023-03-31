@@ -71,7 +71,7 @@ em
     font-style:normal;
 }
 
-.portail,.langue,.
+.portail,.langue,.titre
 {
     color:#fff;
 }
@@ -241,7 +241,7 @@ footer
 {
     display:flex;
     flex-direction:row;
-    gap:2px
+    gap:2px;
 }
 
 #hamburger
